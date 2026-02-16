@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calc_background">#000000</color>
+    <color name="calc_text">#FFFFFF</color>
+    <color name="calc_subtext">#9A9A9A</color>
+    <color name="btn_number_bg">#2A2A2A</color>
+    <color name="btn_utility_bg">#A4A4A4</color>
+    <color name="btn_utility_text">#000000</color>
+    <color name="btn_operator_bg">#FF9F0A</color>
+    <color name="btn_operator_text">#FFFFFF</color>
+</resources>

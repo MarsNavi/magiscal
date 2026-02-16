@@ -1,0 +1,4 @@
+#Mon Feb 16 23:31:52 CST 2026
+base.0=/Users/lirui/Documents/GitHub/magiscal/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
